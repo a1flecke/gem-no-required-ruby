@@ -9,6 +9,7 @@
 /test/tmp/
 /test/version_tmp/
 /tmp/
+.DS_Store
 
 # Used by dotenv library to load environment variables.
 # .env
@@ -51,6 +52,6 @@ build-iPhoneSimulator/
 
 # unless supporting rvm < 1.11.0 or doing something fancy, ignore this:
 .rvmrc
-
+.dccache
 # Used by RuboCop. Remote config files pulled in from inherit_from directive.
 # .rubocop-https?--*

@@ -1,0 +1,1 @@
+puts "I do not require a ruby version"
